@@ -2,7 +2,7 @@
 
 Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and Analytics within Microsoft Platform. If you are a Microsoft FTE, ask me about the internal version.
 
-## Cosmos DB - My Team!!
+## Cosmos DB
 
 + Cosmos Db Workshop - http://aka.ms/cosmosdbworkshop
 + Got Cosmos? - https://www.gotcosmos.com/
@@ -141,13 +141,13 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Add Intelligence to Bots - https://review.docs.microsoft.com/en-us/Bot-Framework/bot-service-concept-intelligence?branch=master
 + Bot Samples Code - https://github.com/Microsoft/botbuilder-samples
 + Emulator - https://aka.ms/botemulator 
-+ State Mngmt. - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
++ State Management. - https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-middleware?view=azure-bot-service-4.0 
 + Conversational Bot - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/conversational-bot
 + Health Care Bot - https://docs.microsoft.com/en-us/healthbot/
 
 ## Data & AI Certifications
 
-+ Tradictional Azure Certifications - http://aka.ms/ExamsAzure
++ Traditional Azure Certifications - http://aka.ms/ExamsAzure
 + MesuareUp - Exams Practices - https://mslibrary.measureup.com/
 + New Certifications
   + AI Engineer - https://www.microsoft.com/en-us/learning/azure-ai-engineer.aspx 
