@@ -97,6 +97,7 @@ Useful Links for Data Management, Artificial Intelligence, Data Science, IoT and
 + Video Indexer - http://videoindexer.ai/
 + Cognitive Services Compliance - https://azure.microsoft.com/en-us/support/legal/cognitive-services-compliance-and-privacy/
 + Custom Translator API - https://portal.customtranslator.azure.ai/
++ Cognitive Services Live - https://channel9.msdn.com/Events/Cognitive-Services/Cognitive-Services-Live
 
 ## Datasets
 
